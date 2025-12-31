@@ -11,3 +11,14 @@ Welcome to the Guess My Number game. The style for the project is inspired with 
 ## Try it yourself 
 
 [Link to the game](https://mariyka-soul.github.io/Guess-My-Number/)
+
+```text
+⊹
+⢠⡏⠉⠑⢄⠀ ⠀  ⡠⠋⠉⢱⡀
+⡇⠙⠒⠒⠬⡗⢒⢮⠄⠒⠒⠁⢣
+⠇⠀⠈⠁⢁⡷⠤⢮⠈⠁⠀⠀⡌
+⠘⢄⣀⡰⢻⠁⠀⠘⡕⢄⣀⡰⠁⠀⊹ 
+⠀⡎⠘⢀⠇⠀⠀⠀⢱⠈⠂⠡⠀
+⠀⠑⢄⡜⠢⡀⠀⢀⠔⠇⡴⠃⠀
+⠀⠀⠀⠑⠠⠚⠀⠓⠔⠋⠀⠀
+⊹
